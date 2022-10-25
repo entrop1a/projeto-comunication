@@ -1,4 +1,4 @@
-# projeto-comunication
+# cliet-server
 Desenvolvimento de um projeto de comunicação client-server simulada em linguagem C;
 Este projeto simula três elementos: um sensor genérico, um computador central e uma interface com o usuário, para monitoramento da condição da bateria do sensor;
 O sensor assume a característica única de servidor que alimenta o cliente Computador central com dados sobre conexão e nível da bateria;
